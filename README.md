@@ -1,0 +1,1 @@
+This Python script takes input for a student's name and five test scores. It calculates the numeric and letter grades for each test, as well as the average numeric grade. The results, including the student name, individual test scores, and corresponding grades, are then displayed in a formatted table.
